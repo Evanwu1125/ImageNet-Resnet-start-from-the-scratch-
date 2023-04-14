@@ -8,7 +8,7 @@
 - [x] ImageNet数据集的处理
 - [X] ImageNet数据集的读入
 - [ ] ResNet网络的搭建
-- [ ] 在ImageNet数据集上训练ResNet网络
+- [ ] 在CIFAR100数据集上训练ResNet网络
 
 ## DataSets
 **[数据集的预处理操作](https://github.com/Evanwu1125/ImageNet-Resnet-start-from-the-scratch-/tree/main/Datasets)**  
