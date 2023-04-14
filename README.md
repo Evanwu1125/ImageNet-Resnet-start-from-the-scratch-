@@ -11,7 +11,7 @@
 - [ ] 在ImageNet数据集上训练ResNet网络
 
 ## DataSets
-**数据集的预处理操作**  
+**[数据集的预处理操作](https://github.com/Evanwu1125/ImageNet-Resnet-start-from-the-scratch-/tree/main/Datasets)**  
 ImageNet数据集下载链接  
 链接：https://pan.baidu.com/s/1i6arUzJdUH_f3aY2cCJsWA?pwd=evan  
 提取码：evan  
