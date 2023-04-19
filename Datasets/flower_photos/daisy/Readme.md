@@ -1,1 +1,1 @@
-该文件夹中存储的是Daisy这个种类的花的图片
+This folder contains the photos of Daisy（菊花 in Chinese）.
