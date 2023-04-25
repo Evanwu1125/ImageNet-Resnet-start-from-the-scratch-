@@ -14,4 +14,16 @@ $Vgg11$
 ，该模型中就是包含了8个卷积层加上3个线性层。
 模型示意图：![image](https://user-images.githubusercontent.com/88299572/232652530-64e9a36a-6e89-43e0-a408-8f52e7291062.png)
 
-## 
+## main.py
+该文件中存放的是程序的主文件，用来训练模型。在训练过程中**model.py**文件会自动调用**model.py**文件当中的
+$Vgg$
+模型。
+
+## predict.py
+该文件中是用来对单张的本地图片进行预测，具体预测方式是更改第21行的代码  
+
+
+```python
+    # load image
+    img_path = "../tulip.jpg" #把行代码是本地图片的地址，直接把这行地址改成自己图片的地址即可
+```
