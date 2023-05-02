@@ -114,4 +114,4 @@ data_transforms = {
 
 
 ```
-[完整代码](https://github.com/Evanwu1125/ImageNet-Resnet-start-from-the-scratch-/blob/main/models/main.py)
+**[完整代码](https://github.com/Evanwu1125/ImageNet-Resnet-start-from-the-scratch-/blob/main/models/main.py)可以参考该文件夹中的main.py文件**
