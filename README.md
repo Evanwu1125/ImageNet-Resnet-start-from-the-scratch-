@@ -31,6 +31,8 @@ ImageNet数据集下载链接
 ```
 #### Flower数据集
 因为ImageNet数据集用一般的电脑训练起来实在是太困难了，所以我们在检验模型的时候会用这个Flower数据集作为平替。
+#### Mini ImageNet数据集
+
 ## Networks
 - [ ] Resnet
 - [ ] [Vggnet](https://github.com/Evanwu1125/ImageNet-Resnet-start-from-the-scratch-/tree/main/models/VggNet)
