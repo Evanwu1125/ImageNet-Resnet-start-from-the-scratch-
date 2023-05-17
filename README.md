@@ -36,7 +36,7 @@ ImageNet数据集下载链接
 
 ## Networks
 - [ ] Resnet
-- [ ] [Vggnet](https://github.com/Evanwu1125/ImageNet-Resnet-start-from-the-scratch-/tree/main/models/VggNet)
+- [x] [Vggnet](https://github.com/Evanwu1125/ImageNet-Resnet-start-from-the-scratch-/tree/main/models/VggNet)
 - [ ] Googlenet
 - [ ] SEnet
 - [ ] ResNeXt
